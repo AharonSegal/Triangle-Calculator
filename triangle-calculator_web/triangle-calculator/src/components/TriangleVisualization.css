@@ -1,0 +1,21 @@
+.triangle-visualization {
+    width: 100%;
+    max-width: 450px; /* Increased from 400px */
+    margin: 20px auto;
+  }
+  
+  .triangle-visualization svg {
+    width: 100%;
+    height: auto;
+  }
+  
+  .triangle-visualization text {
+    font-size: 14px; /* Increased from 12px */
+    font-weight: bold;
+  }
+
+  .triangle-visualization text.info {
+    font-size: 14px;
+    font-weight: bold;
+    fill: #8B4513;
+  }

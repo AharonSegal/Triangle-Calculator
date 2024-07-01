@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  padding-top: 40px; /* Increased top padding */
+}
+
+h1 {
+  margin-bottom: 40px; /* Increased bottom margin for the title */
+}
